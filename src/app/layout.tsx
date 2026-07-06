@@ -13,8 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mr. D's Website",
-  description: "A Next.js site built with TypeScript, Tailwind CSS, and Vercel.",
+  title: "Mr. D's Transportation Services, Inc.",
+  description:
+    "Transportation services in Orange, California specializing in food-industry shipment support.",
+  openGraph: {
+    title: "Mr. D's Transportation Services, Inc.",
+    description:
+      "Reliable transportation support for food-industry shipments in Orange, California.",
+  },
 };
 
 export default function RootLayout({
