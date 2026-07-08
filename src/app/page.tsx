@@ -1,7 +1,7 @@
 import Image from "next/image";
 
-const phoneDisplay = "(714) 202-0203";
-const phoneHref = "tel:7142020203";
+const phoneDisplay = "714-420-7796";
+const phoneHref = "tel:7144207796";
 
 const services = [
   {
