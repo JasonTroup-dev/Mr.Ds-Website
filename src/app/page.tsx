@@ -148,9 +148,9 @@ export default function Home() {
             <p className="text-lg leading-8 text-[#475569]">
               Mr. D&apos;s Transportation Services, Inc. is a transportation
               business focused on reliable communication, practical solutions,
-              and dependable service for food-industry clients. The company
-              helps clients get the transportation support they need with a
-              direct, responsive approach.
+              and dependable service for food-industry clients. We help the
+              client get the transportation support they need with a direct,
+              responsive approach.
             </p>
           </div>
         </div>
